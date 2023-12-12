@@ -13,8 +13,6 @@ Video demo to see how it works:
 
 
 
-
-
 ### Workout Creator 
 
 Used Open Ai's GPT-4 API to help me build workout planner tailored specifically to my preferences and time constraints. This planner curates exercise routines ranging from 40-60 minutes. Workouts range from strength training, hiit, or cardio. 
