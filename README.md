@@ -6,9 +6,8 @@ Developed an AI Portuguese Tutor to help me learn Portuguese for my exciting tri
 
 Video demo to see how it works: 
 
-<video width="720" height="480" controls>
-  <source src="https://drive.google.com/file/d/1_7gMi3j6tHd1HR6pJBhHOEXmi76DzSBG/view?usp=sharing/preview">
-</video>
+<iframe src="[your_embeddable_link_from_google_drive](https://drive.google.com/file/d/1_7gMi3j6tHd1HR6pJBhHOEXmi76DzSBG/view?usp=sharing)" width="640" height="480"></iframe>
+
 
 
 
