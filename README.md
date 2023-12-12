@@ -6,7 +6,7 @@ Developed an AI Portuguese Tutor to help me learn Portuguese for my exciting tri
 
 Video demo to see how it works: 
 
-<iframe src="https://drive.google.com/file/d/1_7gMi3j6tHd1HR6pJBhHOEXmi76DzSBG/view?usp=sharing" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1_7gMi3j6tHd1HR6pJBhHOEXmi76DzSBG/view?usp=sharing/preview" width="640" height="480"></iframe>
 
 
 
